@@ -1,7 +1,7 @@
 # Dicoding: Genshin Impact Characters List App 📱
 
 <p align="center">
-  <img src="https://www.freepnglogos.com/uploads/genshin-impact-logo-png/genshin-impact-shadow-logo-by-kurikuo-steamgriddb-4.png" alt="Sublime's custom image"/>
+  <img src="https://www.freepnglogos.com/uploads/genshin-impact-logo-png/genshin-impact-shadow-logo-by-kurikuo-steamgriddb-4.png" alt="Genshin Impact Logo"/>
 </p>
 
 An application containing a list of characters from the Mondstadt region originating from an Action-RPG game called [Genshin Impact](https://genshin.hoyoverse.com/). This app is made for final submission on the "Learn to Make Android Apps for Beginners" ([Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)) Dicoding course. This application implements some of the material from the course, i.e:
