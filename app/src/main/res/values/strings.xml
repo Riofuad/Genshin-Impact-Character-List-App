@@ -1,0 +1,321 @@
+<resources>
+    <string name="app_name">Genshin Impact Character App</string>
+    <string name="about_name">Iman Mustika Ismail</string>
+    <string name="email">imanmustika02@gmail.com</string>
+    <string name="about_contact">Follow me on:</string>
+    <string name="share">Share</string>
+
+    <string name="strip"> — </string>
+    <string name="characters_name">Characters Name</string>
+    <string name="weapon">Weapon</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+
+    <string name="vision">Vision</string>
+    <string name="primary_attribute">Primary Attribute</string>
+    <string name="constellation">Constellation</string>
+    <string name="affiliation">Affiliation</string>
+    <string name="birthday">Birthday</string>
+    <string name="voice_actor">Voice Actor (VA):</string>
+    <string name="english">English</string>
+    <string name="japanese">Japanese</string>
+    <string name="chinese">Chinese</string>
+    <string name="korean">Korean</string>
+
+
+    <string-array name="data_name">
+        <item>Albedo</item>
+        <item>Amber</item>
+        <item>Barbara</item>
+        <item>Bennett</item>
+        <item>Diluc</item>
+        <item>Diona</item>
+        <item>Eula</item>
+        <item>Fischl</item>
+        <item>Jean</item>
+        <item>Kaeya</item>
+        <item>Klee</item>
+        <item>Lisa</item>
+        <item>Mona</item>
+        <item>Noelle</item>
+        <item>Razor</item>
+        <item>Rosaria</item>
+        <item>Sucrose</item>
+        <item>Venti</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius. He is master of both of Sucrose and Timaeus. \"Genius,\" \"Kreideprinz,\" or \"Captain of the Investigation Team\"... Such titles and honors are of no consequence to him when there is so much more research to conduct. The pursuit of fortune and connections cannot hold a candle to his heart\'s desire — acquiring the limitless, obscure knowledge left behind by previous generations of scholars.</item>
+        <item>A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius. Her amazing mastery of the glider has made her a three-time winner of the Gliding Championship in Mondstadt. As a rising star within the Knights of Favonius, Amber is always ready for any challenging tasks.</item>
+        <item>The Deaconess of the Church of Favonius and a shining idol adored by all. Although the concept of an idol is rather novel in a city of bards, the people of Mondstadt love Barbara nonetheless. \"I owe everything to the city\'s spirit of freedom.\" — Barbara, regarding her popularity.</item>
+        <item>One of the few young adventurers of the Mondstadt Adventurers\' Guild, he is always plagued with inexplicable bad luck. He is the only active member of his own adventure group, known as \"Benny\'s Adventure Team,\" after all the other members decided to \"take leave\" following a series of unfortunate incidents. As a result, the team is currently on the verge of being dissolved. Being unable to break the poor boy\'s heart, Katheryne of the Adventurers\' Guild has kept \"Benny\'s Adventure Team\" on the books, whilst also hiding from him the fact that all the other members have long since officially left the team.</item>
+        <item>As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection. But behind the courteous visage burns a zealous soul that has sworn to protect Mondstadt at all costs, allowing him to mercilessly vanquish all who threaten his city.</item>
+        <item>The incredibly popular bartender of the Cat\'s Tail tavern, rising star of Mondstadt\'s wine industry, and the greatest challenger to its traditional powerhouses. A feisty feline young lady from Springvale, any drink mixed by Diona\'s hand tastes delicious beyond belief. Yet given her extreme distaste for alcohol, is her talent a blessing or a curse?</item>
+        <item>A rebellious descendant of the old aristocracy who is always out on the battlefield. As one born into the old aristocracy, carrying the bloodline of sinners, Eula has needed a unique approach to the world to navigate the towering walls of prejudice peacefully. Of course, this did not prevent her from severing ties with her clan. As the outstanding Spindrift Knight, she hunts down Mondstadt\'s enemies in the wild to exact her unique \"vengeance.\"</item>
+        <item>A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers\' Guild. Through her unique abilities, eccentric character, and (while she would never admit it herself) hard work, Fischl has become a rising star among the Adventurers\' Guild\'s investigators, earning the recognition of all.</item>
+        <item>As the Acting Grand Master of the Knights, Jean has always been devoted to her duties and maintaining peace in Mondstadt. She had taken precautions long before the onset of Stormterror\'s assault, and she will guard Mondstadt with her life as always.</item>
+        <item>In the Knights of Favonius, Kaeya is the most trusted aide for the Acting Grand lvlaster Jean. You can always count on him to solve any intractable problems. Everyone in Mondstadt loves Kaeya, but no one knows what secrets this witty, charming knight has...</item>
+        <item>Knights of Favonius Spark Knight! Forever with a bang and a flash! —And then disappearing from the stern gaze of Acting Grand Master Jean. Sure, time in solitary confinement gives lots of time to think about new gunpowder formulas... But it’d still be better to not be in solitary in the first place.</item>
+        <item>She is an intellectual witch who can never get enough naps. As the Librarian of the Knights of Favonius, Lisa is smart in that she always knows exactly what to do with whatever troubles her. As much as she loves her sleep, she still manages to keep everything under control in a calm, composed manner.</item>
+        <item>A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful. Though she is often strapped for cash and lives a life of thrift, she is resolved to never use astrology for profit... It is this very resolution that has caused her to constantly fret about money.</item>
+        <item>Like most of Mondstadt\'s young people, Noelle always dreamed of being a knight of Favonius when she grew up. She may not have what it takes to be a knight just yet, but she is learning. Working as a maid at the Knights\' headquarters, she is constantly taking notes on what constitutes knightly speech, knightly conduct, and knightly customs. She holds firm to her belief that one day she will join their ranks — she just needs to keep trying her hardest at everything she does.</item>
+        <item>Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form. He is most at home in the wild, fighting with claw and thunder. To this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.</item>
+        <item>Rosaria, a sister in Mondstadt\'s Church of Favonius. A sister of the church, though you wouldn\'t know it if it weren\'t for her attire. An unusual woman with sharp, piercing words and a cold manner. Her movements are unpredictable. She often leaves without notifying anyone. She acts with some kind of purpose, but others don\'t seem to know exactly what she stands for...</item>
+        <item>An alchemist with an insatiable curiosity towards the world and everything in it. Attached to the Knights of Favonius as an assistant to Albedo, her area of focus is \"bio-alchemy.\" She strives to enrich the world by transforming living things with the power of alchemy. Granted, the products of her research sometimes prove to be more weird than wonderful — but on the whole, she has made monumental contributions to the field of bio-alchemy.</item>
+        <item>A bard that seems to have arrived on some unknown wind — sometimes sing songs as old as the hills, and other times sing poems fresh and new. Likes apples and lively places, but is not a fan of cheese or anything sticky. When using his Anemo power to control the wind, it often appears as feathers, as he\'s fond of that which appears light and breezy.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://genshin.global/wp-content/uploads/2022/05/albedo-geo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/amber-pyro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/barbara-hydro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2021/12/bennett-pyro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2020/09/diluc-pyro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/diona-cryo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2021/05/eula-cryo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/05/fischl-electro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2020/09/jean-anemo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/kaeya-cryo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/klee-pyro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/lisa-electro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/05/mona-hydro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/noelle-geo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/razor-electro-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/rosaria-cryo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/06/sucrose-anemo-character-profile-icon-genshin-impact.webp</item>
+        <item>https://genshin.global/wp-content/uploads/2022/05/venti-character-profile-icon-genshin-impact.webp</item>
+    </string-array>
+
+    <string-array name="data_splash_img">
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/f95b03a7d7370aa4f5de3ac9a5f161bc_9195254471817551468.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/6f0ef40157e95b0d59455c12f4d3f270_6966278935690800707.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/6c009f0631eb71e697c2da76b608a51e_679009763713991286.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200312/2020031220001589124.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/f5ae62eff2cf426e98626c882dd0cf0d_3240767163310397909.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/fb11c57bf9789d760d70d35ce634ebe1_7535039246777100657.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/4c4b8babc68ffedce9bd5766b60e1ae5_8042598886702510210.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/96297a7f2679bf0dce4fb9d11120b882_6701280931940281887.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/b51565c6f1298e534e90b6e63332e9c1_4240077663550682265.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/cbce61ef1ee5586c4e77b2070348685f_2003673786618101140.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/16cff1c00f651f98427fc3fbab7fc855_1896139197098586359.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/43922f5162840c215638affedad0459a_3369229991804918602.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/9e4203089ad086d328973adf3f6e8c7b_1731345046482271564.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/c8a5da498d29faa1c8f2e2bfb60efbd5_4363852007421467828.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/a1594317bbd0cefeb7da501f9879375b_2033485936169222365.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210325/2021032515083899881.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/448bc697f852e5726717fa2be839eedc_8541949366334435361.png</item>
+        <item>https://webstatic.hoyoverse.com/upload/contentweb/2022/07/22/965e940e6caafe8fbd4bf0e17653000b_4508958090491775485.png</item>
+    </string-array>
+
+    <string-array name="data_weapon">
+        <item>Sword</item>
+        <item>Bow</item>
+        <item>Catalyst</item>
+        <item>Sword</item>
+        <item>Claymore</item>
+        <item>Bow</item>
+        <item>Claymore</item>
+        <item>Bow</item>
+        <item>Sword</item>
+        <item>Sword</item>
+        <item>Catalyst</item>
+        <item>Catalyst</item>
+        <item>Catalyst</item>
+        <item>Claymore</item>
+        <item>Claymore</item>
+        <item>Polearm</item>
+        <item>Catalyst</item>
+        <item>Bow</item>
+    </string-array>
+
+    <string-array name="data_vision">
+        <item>Geo</item>
+        <item>Pyro</item>
+        <item>Hydro</item>
+        <item>Pyro</item>
+        <item>Pyro</item>
+        <item>Cryo</item>
+        <item>Cryo</item>
+        <item>Electro</item>
+        <item>Anemo</item>
+        <item>Cryo</item>
+        <item>Pyro</item>
+        <item>Electro</item>
+        <item>Hydro</item>
+        <item>Geo</item>
+        <item>Electro</item>
+        <item>Cryo</item>
+        <item>Anemo</item>
+        <item>Anemo</item>
+    </string-array>
+
+    <string-array name="data_primary_attribute">
+        <item>Geo DMG Bonus%</item>
+        <item>ATK%</item>
+        <item>HP%</item>
+        <item>Energy Recharge</item>
+        <item>Critical Rate</item>
+        <item>Cryo DMG Bonus%</item>
+        <item>Critical Damage</item>
+        <item>ATK%</item>
+        <item>Healing Bonus%</item>
+        <item>Energy recharge</item>
+        <item>Pyro DMG Bonus%</item>
+        <item>Elemental Mastery</item>
+        <item>Energy Recharge</item>
+        <item>DEF%</item>
+        <item>Physical DMG Bonus%</item>
+        <item>ATK%</item>
+        <item>Anemo DMG Bomus%</item>
+        <item>Energy Recharge</item>
+    </string-array>
+
+    <string-array name="data_constellation">
+        <item>Princeps Cretaceus</item>
+        <item>Lepus</item>
+        <item>Crater</item>
+        <item>Rota Calamitas</item>
+        <item>Noctua</item>
+        <item>Feles</item>
+        <item>Aphros Delos</item>
+        <item>Corvus</item>
+        <item>Leo Minor</item>
+        <item>Pavo Ocellus</item>
+        <item>Trifolium</item>
+        <item>Tempus Fugit</item>
+        <item>Astrolabos</item>
+        <item>Parma Cordis</item>
+        <item>Lupus Minor</item>
+        <item>Spinea Corona</item>
+        <item>Ampulla</item>
+        <item>Carmen Dei</item>
+    </string-array>
+
+    <string-array name="data_affiliation">
+        <item>Knights of Favonius</item>
+        <item>Knights of Favonius</item>
+        <item>Church of Favonius</item>
+        <item>Adventurers\' Guild</item>
+        <item>Dawn Winery</item>
+        <item>Cat\'s Tail</item>
+        <item>Knights of Favonius</item>
+        <item>Adventurers\' Guild</item>
+        <item>Knights of Favonius</item>
+        <item>Knights of Favonius</item>
+        <item>Knights of Favonius</item>
+        <item>Knights of Favonius</item>
+        <item>Hexenzirkel</item>
+        <item>Knights of Favonius</item>
+        <item>Wolvendom</item>
+        <item>Church of Favonius</item>
+        <item>Knights of Favonius</item>
+        <item>City of Mondstadt / The Seven Archons</item>
+    </string-array>
+
+    <string-array name="data_birthday">
+        <item>September 13th</item>
+        <item>August 10th</item>
+        <item>July 5th</item>
+        <item>February 29th</item>
+        <item>April 30th</item>
+        <item>January 18th</item>
+        <item>October 26th</item>
+        <item>May 27th</item>
+        <item>March 14th</item>
+        <item>November 30th</item>
+        <item>July 27th</item>
+        <item>June 9th</item>
+        <item>August 31th</item>
+        <item>March 21st</item>
+        <item>September 9th</item>
+        <item>January 24th</item>
+        <item>November 26th</item>
+        <item>June 16th</item>
+    </string-array>
+
+    <string-array name="data_vaEN">
+        <item>Khoi Dao</item>
+        <item>Kelly Baskin</item>
+        <item>Laura Stahl</item>
+        <item>Cristina Vee Valenzuela</item>
+        <item>Sean Chiplock</item>
+        <item>Dina Sherman</item>
+        <item>Suzie Yeung</item>
+        <item>Brittany Cox &amp; Oz: Ben Pronsky</item>
+        <item>Stephanie Southerland</item>
+        <item>Josey Montana McCoy</item>
+        <item>Poonam Basu</item>
+        <item>Mara Junot</item>
+        <item>Felecia Angelle</item>
+        <item>Laura Faye Smith</item>
+        <item>Todd Haberkorn</item>
+        <item>Elizabeth Maxwell</item>
+        <item>Valeria Rodriguez</item>
+        <item>Erika Harlacher</item>
+    </string-array>
+
+    <string-array name="data_vaJP">
+        <item>Nojima Kenji / 野島健児</item>
+        <item>Iwami Manaka / 石見舞菜香</item>
+        <item>Kito Akari / 鬼頭明里</item>
+        <item>Ōsaka Ryōta / 逢坂良太</item>
+        <item>Ono Kenshō / 小野賢章</item>
+        <item>Izawa Shiori / 井澤詩織</item>
+        <item>Sato Rina / 佐藤 利奈</item>
+        <item>Uchida Maaya / 内田真礼 &amp; Oz: Masutani Yasunori / 増谷康紀</item>
+        <item>Chiwa Saitō / 斋藤千和</item>
+        <item>Toriumi Kōsuke / 鳥海浩輔</item>
+        <item>Kuno Misaki / 久野美咲</item>
+        <item>Tanaka Rie / 田中理惠</item>
+        <item>Kohara Konomi / 小原好美</item>
+        <item>Takao Kanon / 高尾奏音</item>
+        <item>Uchiyama Kōki / 内山昂辉</item>
+        <item>Ai Kakuma / 加隈亜衣</item>
+        <item>Fujita Akane / 藤田茜</item>
+        <item>Murase Ayumu / 村濑步</item>
+    </string-array>
+
+    <string-array name="data_vaCN">
+        <item>Mace</item>
+        <item>Shujin Cai / 蔡书瑾</item>
+        <item>Song Yuanyuan / 宋媛媛</item>
+        <item>Mu Xueting / 穆雪婷</item>
+        <item>Ma Yáng / 马洋</item>
+        <item>Nuoya / 诺亚</item>
+        <item>Ziyin / 子音</item>
+        <item>Mace &amp; Oz: Zhao Yuecheng / 赵悦程</item>
+        <item>Lín Sù / 林簌</item>
+        <item>Sūn Yè / 孙晔</item>
+        <item>Hua Ling / 花玲</item>
+        <item>Zhōng Kě / 钟可</item>
+        <item>Tingting Chen / 陈婷婷</item>
+        <item>Yanning / 宴宁</item>
+        <item>Zhōu Shuài / 周帅</item>
+        <item>Anqi Zhang / 张安琪</item>
+        <item>Xiaogan / 小敢</item>
+        <item>Miāo Jiàng / 喵酱</item>
+    </string-array>
+
+    <string-array name="data_vaKR">
+        <item>Kim Myeong-joon / 김명준</item>
+        <item>Kim Yeon-woo / 김연우</item>
+        <item>Yoon Ah-young / 윤아영</item>
+        <item>Song Ha-rim / 송하림</item>
+        <item>Choi Seung-hoon / 최승훈</item>
+        <item>Woo Jeong-shin / 우정신</item>
+        <item>Kim Hyeon-ji / 김현지</item>
+        <item>Park Go-woon / 박고운 &amp; Oz: Lee Hyeon / 이현</item>
+        <item>Ahn Young-mi / 안영미</item>
+        <item>Jung Joo-won / 정주원</item>
+        <item>Bang Yeon-ji / 방연지</item>
+        <item>Park Go-woon / 박고운</item>
+        <item>Woo Jeong-shin / 우정신</item>
+        <item>Lee Bo-hee / 이보희</item>
+        <item>Kim Seo-young / 김서영</item>
+        <item>Kim Bo-na / 김보나</item>
+        <item>Kim Ha-young / 김하영</item>
+        <item>Jung Yoo-jung / 정유정</item>
+    </string-array>
+</resources>

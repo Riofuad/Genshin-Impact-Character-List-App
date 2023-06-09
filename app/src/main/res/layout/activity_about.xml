@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".AboutActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/solid_color"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_alignParentTop="true"
+            android:background="#8cb3b8"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="225dp"
+            android:layout_height="225dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/iman_photo"
+            android:background="@drawable/shadow_circular_image"
+            app:civ_border_color="@color/white"
+            app:civ_border_width="5dp"
+            app:layout_constraintBottom_toBottomOf="@id/solid_color"
+            app:layout_constraintEnd_toEndOf="@id/solid_color"
+            app:layout_constraintStart_toStartOf="@+id/solid_color"
+            app:layout_constraintTop_toBottomOf="@id/solid_color"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/about_name"
+            android:textColor="@color/black"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/profile_image"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/text_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/email"
+            android:layout_marginBottom="16dp"
+            android:textColor="#8cb3b8"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="@+id/view"
+            app:layout_constraintEnd_toEndOf="@+id/profile_name"
+            app:layout_constraintStart_toStartOf="@+id/profile_name"
+            app:layout_constraintTop_toBottomOf="@+id/profile_name" />
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="310dp"
+            android:layout_height="2dp"
+            android:layout_marginTop="16dp"
+            android:background="#8cb3b8"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/text_email" />
+
+        <TextView
+            android:id="@+id/text_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#8cb3b8"
+            android:text="@string/about_contact"
+            app:layout_constraintEnd_toEndOf="@+id/view"
+            app:layout_constraintStart_toStartOf="@+id/view"
+            app:layout_constraintTop_toBottomOf="@+id/view" />
+
+        <ImageView
+            android:id="@+id/ic_instagram"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="48dp"
+            android:src="@drawable/ic_instagram"
+            app:layout_constraintBottom_toBottomOf="@+id/ic_linkedin"
+            app:layout_constraintEnd_toStartOf="@+id/ic_linkedin"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/ic_linkedin" />
+
+        <ImageView
+            android:id="@+id/ic_linkedin"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="100dp"
+            android:layout_marginEnd="16dp"
+            android:src="@drawable/ic_linkedin"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/text_contact"
+            app:layout_constraintStart_toStartOf="@+id/text_contact"
+            app:layout_constraintTop_toBottomOf="@+id/text_contact"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <ImageView
+            android:id="@+id/ic_github"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="48dp"
+            android:src="@drawable/ic_github"
+            app:layout_constraintBottom_toBottomOf="@+id/ic_linkedin"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/ic_linkedin"
+            app:layout_constraintTop_toTopOf="@+id/ic_linkedin" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
